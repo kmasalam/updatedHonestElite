@@ -1,15 +1,15 @@
 export const PlaygroundData = [
     {
         text: 'Educational',
-        link: '/',
+        link: '/educational',
     },
     {
         text: 'Love Questions & Answers',
-        link: '/',
+        link: '/love',
     },
     {
         text: 'Heart Broken ',
-        link: '/poetry-audio',
+        link: '/heart',
     },
     {
         text: 'Poetry',
@@ -17,7 +17,7 @@ export const PlaygroundData = [
     },
     {
         text: 'Astrology /Horoscope',
-        link: '/',
+        link: '/astrology-hororscope',
     },
     {
         text: 'Bedtime stories',

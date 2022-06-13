@@ -113,7 +113,7 @@ function GalleryHead({ ...allprops }) {
                     />
                   </a>
                 </Link>
-                <h2 className="  text-c2121 font-semibold mt-3  ">
+                <h2 className="  text-c2121 font-semibold mt-3 capitalize  ">
                   <div className="text-32 cooper" dangerouslySetInnerHTML={{ __html: bigText }}></div>
                 </h2>
               </Box>

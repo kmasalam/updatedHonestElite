@@ -140,8 +140,8 @@ function SearchBar({...allprops}) {
               </span>
               
               <Select
-              value={1}
               onChange={handleChange}
+              value={age}
               displayEmpty
               inputProps={{ 'aria-label': 'Without label' }}
               className=" pl-4 rubik capitalize text-c6f6f text-sm"
