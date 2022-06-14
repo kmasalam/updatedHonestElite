@@ -136,7 +136,13 @@ function poetryHome(props) {
                 className=" flex items-center justify-center pt-3"
               >
                 {/*  */}
-                
+                <Box className=" w-[46.80rem] mr-[230px] mt-[-6px]">
+                <SearchBar
+                  searchbarType={"gray_form_box"}
+                  size={""}
+                  spacing={""}
+                />
+              </Box>
                 {/*  */}
               </Grid>
               <Grid item md={3} className=" text-right flex items-center justify-end pt-0">
